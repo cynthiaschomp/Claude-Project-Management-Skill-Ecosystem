@@ -4,7 +4,7 @@ A set of Claude skills for service agencies — web studios, dev shops, design
 firms, consultancies — to manage client projects without scope creep eating
 into profit.
 
-Built and used in production by [THM2G](https://thm2g.com), a web design agency
+Built and used in production by [Cynthia Schomp](https://cynthiaschomp.com), a web design agency
 managing 100+ client websites.
 
 ---
@@ -171,4 +171,4 @@ MIT — use freely, adapt for your business, no attribution required.
 
 ---
 
-Built by [THM2G](https://thm2g.com) · Powered by [Claude](https://claude.ai)
+Built by [Cynthia Schomp](https://cynthiaschomp.com) · Powered by [Claude](https://claude.ai)

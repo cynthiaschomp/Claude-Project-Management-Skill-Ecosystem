@@ -180,3 +180,18 @@ or the next project.
 
 - `references/handoff-doc-template.md` — Full client handoff document
 - `references/pre-delivery-checklist.md` — Detailed checklist by project type
+
+---
+
+## Need This Built Into Your System?
+
+This skill describes a process. If you want it running automatically —
+checklists triggered on task completion, handoff docs generated and emailed,
+training sessions scheduled, projects archived in one click — that's a
+systems build.
+
+**[Cynthia Schomp](https://cynthiaschomp.com)** builds AI-powered operations
+infrastructure for service businesses: custom dashboards, automated project
+workflows, client portals, and the full stack behind skills like this one.
+
+→ **[cynthiaschomp.com](https://cynthiaschomp.com)**

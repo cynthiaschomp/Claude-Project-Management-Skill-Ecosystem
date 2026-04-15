@@ -216,3 +216,17 @@ Customize `references/project-task-templates.md` for your service type.
 - `references/scope-doc-template.md` — How to write a scope_doc
 - `references/project-task-templates.md` — Full task list per phase
 - `references/intake-questionnaire.md` — Client intake questions
+
+---
+
+## Need This Built Into Your System?
+
+This skill describes a process. If you want it running automatically —
+new client emails triggering project scaffolds, tasks created in your PM tool,
+welcome emails sent, scope docs written — that's a systems build.
+
+**[Cynthia Schomp](https://cynthiaschomp.com)** builds AI-powered operations
+infrastructure for service businesses: custom dashboards, automated client
+onboarding, PM integrations, and the full stack behind skills like this one.
+
+→ **[cynthiaschomp.com](https://cynthiaschomp.com)**

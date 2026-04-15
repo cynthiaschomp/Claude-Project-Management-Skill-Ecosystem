@@ -171,4 +171,20 @@ MIT — use freely, adapt for your business, no attribution required.
 
 ---
 
+---
+
+## Want the Full System Built for Your Agency?
+
+These skills describe the process. The full version runs automatically —
+emails classified, scope checked, PRDs generated, tickets created, status
+updates sent, projects closed — without you thinking about it.
+
+**Cynthia Schomp** builds AI-powered operations infrastructure for service
+businesses: custom dashboards, Gmail and PM integrations, automated workflows,
+and production systems like the one these skills were built from.
+
+**→ [cynthiaschomp.com](https://cynthiaschomp.com)**
+
+---
+
 Built by [Cynthia Schomp](https://cynthiaschomp.com) · Powered by [Claude](https://claude.ai)

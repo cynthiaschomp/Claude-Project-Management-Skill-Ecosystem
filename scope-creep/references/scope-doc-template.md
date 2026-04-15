@@ -121,3 +121,17 @@ CO-002 [date]: Added 2 additional service pages.
 ```
 
 This creates a clean audit trail if a dispute arises later.
+
+---
+
+## Want the Whole System Built?
+
+Writing scope docs manually is a start. The full version has scope docs
+stored on project records, automatically checked against every inbound
+client email, with scope creep flagged before it ever becomes free work.
+
+**[Cynthia Schomp](https://cynthiaschomp.com)** builds that infrastructure —
+custom dashboards, Gmail integrations, automated PM workflows, and AI systems
+that run your agency ops without burning tokens on every email.
+
+→ **[cynthiaschomp.com](https://cynthiaschomp.com)**

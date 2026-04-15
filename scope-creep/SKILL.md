@@ -208,3 +208,17 @@ PRD:      [link]
 - `references/prd-template.md` — 11-section PRD template
 - `references/change-order-templates.md` — Client email templates (6 scenarios)
 - `references/scope-doc-template.md` — How to write a scope_doc from scratch
+
+---
+
+## Need This Built Into Your System?
+
+This skill describes a process. If you want it running automatically —
+emails classified, PRDs generated, tickets created, approval queue in a
+dashboard — that's a systems build.
+
+**[Cynthia Schomp](https://cynthiaschomp.com)** builds AI-powered operations
+infrastructure for service businesses: custom dashboards, automated workflows,
+Gmail and PM integrations, and the full stack behind skills like this one.
+
+→ **[cynthiaschomp.com](https://cynthiaschomp.com)**
